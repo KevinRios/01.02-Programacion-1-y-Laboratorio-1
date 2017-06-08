@@ -1,0 +1,2 @@
+1) Tomar el ejercicio de la clase 21 y en lugar de crear un array de personas, crear uno de punteros a estructuras "Person"
+

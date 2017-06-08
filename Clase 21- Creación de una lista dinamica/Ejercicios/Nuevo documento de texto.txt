@@ -1,0 +1,2 @@
+1) Tomar el ejercicio de la clase 20 y cambiar el array estático por uno dinámico usando malloc.
+
