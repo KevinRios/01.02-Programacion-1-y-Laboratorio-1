@@ -1,0 +1,2 @@
+1) Realizar un programa que solicite cinco números e imprima por pantalla el promedio, el máximo y el mínimo.
+
