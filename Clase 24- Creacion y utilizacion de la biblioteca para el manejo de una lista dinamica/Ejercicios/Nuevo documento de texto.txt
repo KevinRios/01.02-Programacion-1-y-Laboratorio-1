@@ -1,0 +1,2 @@
+1) Tomar el ejercicio de la clase 23 y agregar a la biblioteca del ejercicio anterior, la posibilidad de borrar un item.
+
