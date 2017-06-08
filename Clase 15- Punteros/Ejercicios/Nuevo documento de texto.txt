@@ -1,0 +1,9 @@
+1) Escribir 4 funciones que reciban un array de números int y su tamaño, e impriman los números por pantalla.
+
+* 1era funcion: Recibe el array como vector y accede a los datos utilizando notación vectorial ([])
+
+* 2da funcion: Recibe el array como vector y accede a los datos utilizando aritmetica de punteros
+
+* 3era funcion: Recibe el array como puntero y accede a los datos utilizando notación vectorial ([])
+
+* 4da funcion: Recibe el array como puntero y accede a los datos utilizando aritmetica de punteros
