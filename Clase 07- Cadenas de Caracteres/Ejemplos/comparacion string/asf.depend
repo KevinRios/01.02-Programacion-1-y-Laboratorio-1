@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496681131 source:c:\users\kevirios\desktop\asf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
