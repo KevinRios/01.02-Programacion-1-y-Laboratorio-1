@@ -1,0 +1,4 @@
+Datos de interés:
+
+https://www.mockaroo.com/   -Permite generar archivos con datos-
+http://www.mocky.io/  -Permite servir archivos modo REST Api-
