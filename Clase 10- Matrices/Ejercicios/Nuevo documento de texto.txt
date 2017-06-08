@@ -1,0 +1,15 @@
+1) And now it's time to play. The Game of Fifteen is a puzzle played on a square, two-dimensional board with numbered tiles that slide. The goal of this puzzle is to arrange the board's tiles from smallest to largest, left to right, top to bottom, with an empty space in board's bottom-right corner, as in the below.
+
+1 2 3
+
+4 5 6
+
+7 8 _
+
+The game will start mixed:
+
+7 5 3
+
+6 2 4
+
+1 8 _
